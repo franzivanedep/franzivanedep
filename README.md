@@ -38,21 +38,10 @@ I'm a **Full-Stack Developer Engineer** with experience in:
 
 
 
-## 📷 Snippets
-
-### Firebase Auth Example
-![Firebase Auth Example](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/firebase-auth.png)
-
-### IoT Dashboard (Vue.js)
-![IoT Dashboard](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/iot-dashboard.png)
 
 ---
 
-## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 💬 [Portfolio](https://yourportfolio.com)
-- 📬 Email: your@email.com
 
 ---
 
