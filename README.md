@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ivan</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="300" alt="Coding gif">
+  <img src="https://miro.medium.com/1*ubCR6WyFNthQVQ9D4AIO9g.gif" width="300" alt="Coding gif">
 </p>
 
 ---
